@@ -1,0 +1,21 @@
+{
+    "data": {
+        "kode": "mbois",
+        "nama": "Mbois",
+        "kode_dialek": "surabaya-malang",
+        "kode_kategori": "kata-sifat",
+        "emoji": "😎",
+        "dialek": "Surabaya / Malang",
+        "kategori": "Kata Sifat",
+        "arti": "Keren, bergaya, modis, atau sangat memukau (slang khas Arek Jawa Timur, sering disandingkan dengan Mbois Ilakes).",
+        "contoh": "Gayamu saiki mbois pol rek, numpak vespa matic anyar nganggo jaket levis!",
+        "suka": 980,
+        "tag": [],
+        "pengusul": "Bambang Mbois",
+        "dibuat": "2026-10-17T04:25:01+00:00"
+    },
+    "meta": {
+        "tingkat": "kata",
+        "diperbarui": "2026-10-17T04:25:01+00:00"
+    }
+}

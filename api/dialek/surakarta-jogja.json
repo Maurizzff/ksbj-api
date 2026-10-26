@@ -1,0 +1,19 @@
+{
+    "data": [
+        {
+            "kode": "cidro",
+            "nama": "Cidro",
+            "kode_dialek": "surakarta-jogja",
+            "kode_kategori": "kata-kerja"
+        }
+    ],
+    "meta": {
+        "tingkat": "kata",
+        "induk": {
+            "kode": "surakarta-jogja",
+            "nama": "Surakarta / Jogja"
+        },
+        "total": 1,
+        "diperbarui": "2026-10-17T04:25:01+00:00"
+    }
+}

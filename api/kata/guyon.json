@@ -1,0 +1,21 @@
+{
+    "data": {
+        "kode": "guyon",
+        "nama": "Guyon",
+        "kode_dialek": "umum-jawa",
+        "kode_kategori": "kata-kerja",
+        "emoji": "😂",
+        "dialek": "Umum Jawa",
+        "kategori": "Kata Kerja",
+        "arti": "Bercanda, melucu, atau bersenda gurau yang bertujuan untuk mencairkan suasana tanpa niat menyinggung hati.",
+        "contoh": "Ojo dilebokne ati mas, mau iku mung guyon waton ben ora spaneng.",
+        "suka": 855,
+        "tag": [],
+        "pengusul": "Pak RT Guyub",
+        "dibuat": "2026-10-17T04:25:01+00:00"
+    },
+    "meta": {
+        "tingkat": "kata",
+        "diperbarui": "2026-10-17T04:25:01+00:00"
+    }
+}

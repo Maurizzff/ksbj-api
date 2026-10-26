@@ -1,0 +1,49 @@
+{
+    "data": [
+        {
+            "kode": "cangkeman",
+            "nama": "Cangkeman",
+            "kode_dialek": "jawa-timur-tengah",
+            "kode_kategori": "kata-sifat"
+        },
+        {
+            "kode": "gatheli",
+            "nama": "Gatheli",
+            "kode_dialek": "surabaya",
+            "kode_kategori": "kata-sifat"
+        },
+        {
+            "kode": "mbois",
+            "nama": "Mbois",
+            "kode_dialek": "surabaya-malang",
+            "kode_kategori": "kata-sifat"
+        },
+        {
+            "kode": "mletre",
+            "nama": "Mletre",
+            "kode_dialek": "jawa-tengah-diy",
+            "kode_kategori": "kata-sifat"
+        },
+        {
+            "kode": "rungkad",
+            "nama": "Rungkad",
+            "kode_dialek": "jawa-tengah-timur",
+            "kode_kategori": "kata-sifat"
+        },
+        {
+            "kode": "suwung",
+            "nama": "Suwung",
+            "kode_dialek": "umum-jawa",
+            "kode_kategori": "kata-sifat"
+        }
+    ],
+    "meta": {
+        "tingkat": "kata",
+        "induk": {
+            "kode": "kata-sifat",
+            "nama": "Kata Sifat"
+        },
+        "total": 6,
+        "diperbarui": "2026-10-17T04:25:01+00:00"
+    }
+}

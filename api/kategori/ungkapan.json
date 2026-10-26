@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "kode": "ambyar",
+            "nama": "Ambyar",
+            "kode_dialek": "solo-jogja",
+            "kode_kategori": "ungkapan"
+        },
+        {
+            "kode": "pancen-oye",
+            "nama": "Pancen Oye",
+            "kode_dialek": "umum-jawa",
+            "kode_kategori": "ungkapan"
+        },
+        {
+            "kode": "sak-karepmu",
+            "nama": "Sak Karepmu",
+            "kode_dialek": "umum-jawa",
+            "kode_kategori": "ungkapan"
+        }
+    ],
+    "meta": {
+        "tingkat": "kata",
+        "induk": {
+            "kode": "ungkapan",
+            "nama": "Ungkapan"
+        },
+        "total": 3,
+        "diperbarui": "2026-10-17T04:25:01+00:00"
+    }
+}

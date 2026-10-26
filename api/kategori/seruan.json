@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "kode": "modar",
+            "nama": "Modar",
+            "kode_dialek": "jawa-kasar-gaul",
+            "kode_kategori": "seruan"
+        },
+        {
+            "kode": "ndlogok",
+            "nama": "Ndlogok",
+            "kode_dialek": "yogyakarta",
+            "kode_kategori": "seruan"
+        }
+    ],
+    "meta": {
+        "tingkat": "kata",
+        "induk": {
+            "kode": "seruan",
+            "nama": "Seruan"
+        },
+        "total": 2,
+        "diperbarui": "2026-10-17T04:25:01+00:00"
+    }
+}

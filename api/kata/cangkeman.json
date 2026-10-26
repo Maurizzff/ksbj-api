@@ -1,0 +1,21 @@
+{
+    "data": {
+        "kode": "cangkeman",
+        "nama": "Cangkeman",
+        "kode_dialek": "jawa-timur-tengah",
+        "kode_kategori": "kata-sifat",
+        "emoji": "🗣️",
+        "dialek": "Jawa Timur & Tengah",
+        "kategori": "Kata Sifat",
+        "arti": "Sifat orang yang terlalu banyak omong kosong, suka membual, cerewet, atau ikut campur urusan orang lain.",
+        "contoh": "Ojo kakehan cangkeman, yen wani langsung buktikno ning lapangan saiki!",
+        "suka": 512,
+        "tag": [],
+        "pengusul": "Gatot Kaca",
+        "dibuat": "2026-10-17T04:25:01+00:00"
+    },
+    "meta": {
+        "tingkat": "kata",
+        "diperbarui": "2026-10-17T04:25:01+00:00"
+    }
+}

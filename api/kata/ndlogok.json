@@ -1,0 +1,21 @@
+{
+    "data": {
+        "kode": "ndlogok",
+        "nama": "Ndlogok",
+        "kode_dialek": "yogyakarta",
+        "kode_kategori": "seruan",
+        "emoji": "🤪",
+        "dialek": "Yogyakarta",
+        "kategori": "Seruan",
+        "arti": "Kata umpatan akrab khas Yogyakarta yang digunakan untuk mengekspresikan keheranan, rasa konyol, atau ledekan sayang antar kawan dekat.",
+        "contoh": "Halah ndlogok kowe iki, jarene arep mangkat jam pitu malah nembe tangi turu!",
+        "suka": 720,
+        "tag": [],
+        "pengusul": "Aditya Malioboro",
+        "dibuat": "2026-10-17T04:25:01+00:00"
+    },
+    "meta": {
+        "tingkat": "kata",
+        "diperbarui": "2026-10-17T04:25:01+00:00"
+    }
+}

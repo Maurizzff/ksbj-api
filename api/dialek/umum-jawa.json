@@ -1,0 +1,49 @@
+{
+    "data": [
+        {
+            "kode": "guyon",
+            "nama": "Guyon",
+            "kode_dialek": "umum-jawa",
+            "kode_kategori": "kata-kerja"
+        },
+        {
+            "kode": "ndusel",
+            "nama": "Ndusel",
+            "kode_dialek": "umum-jawa",
+            "kode_kategori": "kata-kerja"
+        },
+        {
+            "kode": "pancen-oye",
+            "nama": "Pancen Oye",
+            "kode_dialek": "umum-jawa",
+            "kode_kategori": "ungkapan"
+        },
+        {
+            "kode": "sak-karepmu",
+            "nama": "Sak Karepmu",
+            "kode_dialek": "umum-jawa",
+            "kode_kategori": "ungkapan"
+        },
+        {
+            "kode": "sambat",
+            "nama": "Sambat",
+            "kode_dialek": "umum-jawa",
+            "kode_kategori": "kata-kerja"
+        },
+        {
+            "kode": "suwung",
+            "nama": "Suwung",
+            "kode_dialek": "umum-jawa",
+            "kode_kategori": "kata-sifat"
+        }
+    ],
+    "meta": {
+        "tingkat": "kata",
+        "induk": {
+            "kode": "umum-jawa",
+            "nama": "Umum Jawa"
+        },
+        "total": 6,
+        "diperbarui": "2026-10-17T04:25:01+00:00"
+    }
+}

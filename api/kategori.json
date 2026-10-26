@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "kode": "kata-benda",
+            "nama": "Kata Benda",
+            "jumlah_kata": 1
+        },
+        {
+            "kode": "kata-kerja",
+            "nama": "Kata Kerja",
+            "jumlah_kata": 4
+        },
+        {
+            "kode": "kata-sifat",
+            "nama": "Kata Sifat",
+            "jumlah_kata": 6
+        },
+        {
+            "kode": "seruan",
+            "nama": "Seruan",
+            "jumlah_kata": 2
+        },
+        {
+            "kode": "ungkapan",
+            "nama": "Ungkapan",
+            "jumlah_kata": 3
+        }
+    ],
+    "meta": {
+        "tingkat": "kategori",
+        "total": 5,
+        "diperbarui": "2026-10-17T04:25:01+00:00"
+    }
+}

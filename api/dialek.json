@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "kode": "jawa-kasar-gaul",
+            "nama": "Jawa Kasar / Gaul",
+            "jumlah_kata": 1
+        },
+        {
+            "kode": "jawa-tengah-diy",
+            "nama": "Jawa Tengah / DIY",
+            "jumlah_kata": 1
+        },
+        {
+            "kode": "jawa-tengah-timur",
+            "nama": "Jawa Tengah & Timur",
+            "jumlah_kata": 1
+        },
+        {
+            "kode": "jawa-timur-tengah",
+            "nama": "Jawa Timur & Tengah",
+            "jumlah_kata": 2
+        },
+        {
+            "kode": "solo-jogja",
+            "nama": "Solo / Jogja",
+            "jumlah_kata": 1
+        },
+        {
+            "kode": "surabaya",
+            "nama": "Surabaya",
+            "jumlah_kata": 1
+        },
+        {
+            "kode": "surabaya-malang",
+            "nama": "Surabaya / Malang",
+            "jumlah_kata": 1
+        },
+        {
+            "kode": "surakarta-jogja",
+            "nama": "Surakarta / Jogja",
+            "jumlah_kata": 1
+        },
+        {
+            "kode": "umum-jawa",
+            "nama": "Umum Jawa",
+            "jumlah_kata": 6
+        },
+        {
+            "kode": "yogyakarta",
+            "nama": "Yogyakarta",
+            "jumlah_kata": 1
+        }
+    ],
+    "meta": {
+        "tingkat": "dialek",
+        "total": 10,
+        "diperbarui": "2026-10-17T04:25:01+00:00"
+    }
+}

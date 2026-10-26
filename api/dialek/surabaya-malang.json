@@ -1,0 +1,19 @@
+{
+    "data": [
+        {
+            "kode": "mbois",
+            "nama": "Mbois",
+            "kode_dialek": "surabaya-malang",
+            "kode_kategori": "kata-sifat"
+        }
+    ],
+    "meta": {
+        "tingkat": "kata",
+        "induk": {
+            "kode": "surabaya-malang",
+            "nama": "Surabaya / Malang"
+        },
+        "total": 1,
+        "diperbarui": "2026-10-17T04:25:01+00:00"
+    }
+}

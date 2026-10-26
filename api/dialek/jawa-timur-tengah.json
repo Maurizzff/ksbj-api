@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "kode": "bolo",
+            "nama": "Bolo",
+            "kode_dialek": "jawa-timur-tengah",
+            "kode_kategori": "kata-benda"
+        },
+        {
+            "kode": "cangkeman",
+            "nama": "Cangkeman",
+            "kode_dialek": "jawa-timur-tengah",
+            "kode_kategori": "kata-sifat"
+        }
+    ],
+    "meta": {
+        "tingkat": "kata",
+        "induk": {
+            "kode": "jawa-timur-tengah",
+            "nama": "Jawa Timur & Tengah"
+        },
+        "total": 2,
+        "diperbarui": "2026-10-17T04:25:01+00:00"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "data": {
+        "kode": "bolo",
+        "nama": "Bolo",
+        "kode_dialek": "jawa-timur-tengah",
+        "kode_kategori": "kata-benda",
+        "emoji": "🤝",
+        "dialek": "Jawa Timur & Tengah",
+        "kategori": "Kata Benda",
+        "arti": "Teman akrab, kawan seperjuangan, konco kenthel, atau sekutu satu kubu. Ungkapan Bolo Dewe berarti kawan sendiri.",
+        "contoh": "Tenang wae rek, Mas Budi iku bolo dewe, mesti diwenehi diskon khusus!",
+        "suka": 830,
+        "tag": [],
+        "pengusul": "Cak Agus",
+        "dibuat": "2026-10-17T04:25:01+00:00"
+    },
+    "meta": {
+        "tingkat": "kata",
+        "diperbarui": "2026-10-17T04:25:01+00:00"
+    }
+}

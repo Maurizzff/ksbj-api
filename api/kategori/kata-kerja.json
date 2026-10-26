@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "kode": "cidro",
+            "nama": "Cidro",
+            "kode_dialek": "surakarta-jogja",
+            "kode_kategori": "kata-kerja"
+        },
+        {
+            "kode": "guyon",
+            "nama": "Guyon",
+            "kode_dialek": "umum-jawa",
+            "kode_kategori": "kata-kerja"
+        },
+        {
+            "kode": "ndusel",
+            "nama": "Ndusel",
+            "kode_dialek": "umum-jawa",
+            "kode_kategori": "kata-kerja"
+        },
+        {
+            "kode": "sambat",
+            "nama": "Sambat",
+            "kode_dialek": "umum-jawa",
+            "kode_kategori": "kata-kerja"
+        }
+    ],
+    "meta": {
+        "tingkat": "kata",
+        "induk": {
+            "kode": "kata-kerja",
+            "nama": "Kata Kerja"
+        },
+        "total": 4,
+        "diperbarui": "2026-10-17T04:25:01+00:00"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "data": [
+        {
+            "kode": "rungkad",
+            "nama": "Rungkad",
+            "kode_dialek": "jawa-tengah-timur",
+            "kode_kategori": "kata-sifat"
+        }
+    ],
+    "meta": {
+        "tingkat": "kata",
+        "induk": {
+            "kode": "jawa-tengah-timur",
+            "nama": "Jawa Tengah & Timur"
+        },
+        "total": 1,
+        "diperbarui": "2026-10-17T04:25:01+00:00"
+    }
+}
